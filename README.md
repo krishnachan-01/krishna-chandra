@@ -1,4 +1,3 @@
-# About me
 # Hey, I'm Krishna Chandra 👋
 
 🛡️ Cybersecurity grad who got hooked on networks during an internship at BHEL Chennai — and never looked back.
